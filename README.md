@@ -1,7 +1,9 @@
 **🎬 Movie Recommendation System**
+
 A personalized Movie Recommendation System built using machine learning and data analysis techniques. The system suggests movies to users based on content similarity, genres, or user preferences.
 
 **📌 Table of Contents**
+
 Demo
 
 Features
@@ -17,11 +19,13 @@ Usage
 Dataset
 
 **🎥 Demo**
+
 Try it here (optional):
 Live Demo on Streamlit/Flask
 (Replace with actual deployed URL if available)
 
 **✨ Features**
+
 📊 Content-based filtering using movie metadata
 
 🧠 NLP-based similarity using TF-IDF and cosine similarity
@@ -35,6 +39,7 @@ Live Demo on Streamlit/Flask
 📈 Visualizations of top-rated and popular movies (optional)
 
 **🧰 Tech Stack**
+
 Category	Tools / Libraries
 Language	Python 3
 Libraries	Pandas, NumPy, Scikit-learn, NLTK/TextBlob, Streamlit/Flask
@@ -43,6 +48,7 @@ Visualization	Matplotlib, Seaborn (optional)
 Deployment	Streamlit Share / Heroku / Flask + Render
 
 **💡 How It Works**
+
 Load and preprocess the dataset (movies metadata).
 
 Clean and transform features like genres, overview, keywords.
@@ -54,6 +60,7 @@ Compute similarity scores using cosine similarity.
 Input a movie title and return top N most similar movies.
 
 **⚙️ Setup Instructions**
+
 # 1. Clone the repository
 git clone https://github.com/yourusername/movie-recommendation-system.git
 cd movie-recommendation-system
@@ -74,6 +81,7 @@ Enter the name of your favorite movie.
 Get 5–10 similar movie recommendations instantly.
 
 **📂 Dataset**
+
 TMDB 5000 Movie Dataset
 Kaggle Link
 
